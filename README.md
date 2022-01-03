@@ -1,6 +1,7 @@
 # ESP32 FreeRTOS
 ## Description:
-Developed for the class Embedded Computational Systems. The objective of this project was to create a Real-Time system using an ESP32 or an Arduino Mega with FreeRTOS.
+Developed for the class Embedded Computational Systems. <br>
+The objective of this project was to create a Real-Time system using an ESP32 or an Arduino Mega with FreeRTOS.
 I ended up using the board ESP32 WeMos LOLIN32 Lite which I already had, and it became easier to work from home.
 <br>
 
@@ -15,7 +16,6 @@ Modules that must be included in the project:
   - ADC/DAC (ex: Cap touch)
   - PWM
   - I2C/SPI 
-  <br>
   
 Modules that cannot be included in the project:
   - Timers
