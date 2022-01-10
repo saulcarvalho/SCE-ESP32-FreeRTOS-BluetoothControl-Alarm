@@ -1,3 +1,8 @@
+/*------------------------------------------------------------------------------\
+| Final Project for Embedded Computational Systems                              |
+| Student 1: Saúl Carvalho                                                      |
+| Student 2: Cristiano Moreira                                                  |
+\------------------------------------------------------------------------------*/
 #include "Arduino.h"
 #include "stdio.h"
 #include "Adafruit_BusIO_Register.h"
