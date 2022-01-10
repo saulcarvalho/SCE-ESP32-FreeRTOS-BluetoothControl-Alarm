@@ -1,5 +1,6 @@
 /*------------------------------------------------------------------------------\
 |               Final Project for Embedded Computational Systems                |
+|                                                                               |
 | Student A: Cristiano Moreira                                                  |
 | Student B: Saúl Carvalho                                                      |
 \------------------------------------------------------------------------------*/
