@@ -1,8 +1,5 @@
 ### Improvement Notes
-<p> 
-    The following points are suggestions of improvement for <i><b>proj_code</b></i>: 
-</p>
-
+<p> The following points are suggestions of improvement for <i><b>proj_code</b></i>: </p>
 <ul>
     <li> <p>   
         All debug prints should be incased in a macro declared like #if DEBUG in the beginning, commenting the macro would enable/disable program prints.   
