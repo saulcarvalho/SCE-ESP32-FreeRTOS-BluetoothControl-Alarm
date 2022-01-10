@@ -1,4 +1,4 @@
-### Improvement Notes
+<h2> <p align="left"> Improvement Notes </p> </h2>
 <p> The following points are suggestions of improvement for <i><b>proj_code</b></i>: </p>
 <ul>
     <li> <p>   
