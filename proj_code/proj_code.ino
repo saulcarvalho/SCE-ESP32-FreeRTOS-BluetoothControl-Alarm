@@ -1,7 +1,7 @@
 /*------------------------------------------------------------------------------\
-| Final Project for Embedded Computational Systems                              |
-| Student 1: Saúl Carvalho                                                      |
-| Student 2: Cristiano Moreira                                                  |
+|               Final Project for Embedded Computational Systems                |
+| Student A: Cristiano Moreira                                                  |
+| Student B: Saúl Carvalho                                                      |
 \------------------------------------------------------------------------------*/
 #include "Arduino.h"
 #include "stdio.h"
