@@ -2,11 +2,11 @@
 <p> The following points are suggestions of improvement for <i><b>proj_code</b></i>: </p>
 <ul>
     <li> <p>   
-        All debug prints should be incased in a macro declared like #if DEBUG in the beginning, commenting the macro would enable/disable program prints.   
+        All debug prints should be #defined in the beginning and incased in a #if DEBUG #endif macro, for better code efficiency.
     </p> </li>
-    <li> <p>  
-        To improve code modularity (adding/removing specific components from the project), all the module configurations and initial states of all modules should be                       declared inside their respective task handler before the for ( :: );   <br>   
-        Only task creation should be in the setup(), essentially.   
+    <li> <p>
+        To improve code modularity (adding/removing specific components from the project), all the module configurations and initial states of all modules should be declared               inside their respective task handler before their respective for ( ;; );
+        Essentially, only task creation should be inside the setup() function.
     </p> </li>
     <li> <p>   
         The touch task should have an average to pre-establish the value for the threshold instead of having a static value.   <br>   
@@ -16,8 +16,5 @@
     <li> <p>   
         Some functionalities of variable resetting like the PIR settle down for 2s should be changed. The variable reset should be made inside the LCD screen where movement 
         is detected.   
-    </p> </li>
-    <li> <p>   
-        Idle Hook function isn't being used at all. Misinterpretation of functionality.
     </p> </li>
 </ul>
