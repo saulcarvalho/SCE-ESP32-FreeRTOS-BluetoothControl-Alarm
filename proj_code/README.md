@@ -1,5 +1,4 @@
 ### Improvement Notes
-
 <p> 
     The following points are suggestions of improvement for <i><b>proj_code</b></i>: 
 </p>
