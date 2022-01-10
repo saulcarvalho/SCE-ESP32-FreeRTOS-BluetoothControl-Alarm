@@ -17,4 +17,7 @@
         Some functionalities of variable resetting like the PIR settle down for 2s should be changed. The variable reset should be made inside the LCD screen where movement 
         is detected.   
     </p> </li>
+    <li> <p>   
+        Idle Hook function isn't being used at all. Misinterpretation of functionality.
+    </p> </li>
 </ul>
