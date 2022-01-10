@@ -4,7 +4,7 @@
     The objective of this project was to create a Real-Time system using an ESP32 or an Arduino Mega with FreeRTOS.  <br>
     I ended up using the board ESP32 WeMos LOLIN32 Lite which I already had, and it became easier to work from home. </p>
     
-<p> In the end, the code ended up being used for a ESP32 Dev Board </p>
+<p> In the end, the code ended up being used for a ESP32 Dev Board. </p>
 
 ## Project Specifications
 <p> The project had some objectives to fulfill, which can be divided in ESP32 and FreeRTOS functionalities. </p>
