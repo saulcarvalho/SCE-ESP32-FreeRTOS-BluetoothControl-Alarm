@@ -1,6 +1,6 @@
 <h1> ESP32 FreeRTOS - Bluetooth Access Control & Alarm </h1>
 <h2> Description: </h2>
-<p align="justify"> Developed for the class Embedded Computational Systems. The objective of this project was to create a Real-Time system using an ESP32 or an Arduino Mega with FreeRTOS. I ended up using the board ESP32 WeMos LOLIN32 Lite which I already had, and it became easier to work from home. </p>
+<p align="justify"> <b><i>DISCLAIMER:</i></b> Developed for the class Embedded Computational Systems. The objective of this project was to create a Real-Time system using an ESP32 or an Arduino Mega with FreeRTOS. I ended up using the board ESP32 WeMos LOLIN32 Lite which I already had, and it became easier to work from home. </p>
 
 <h2> Project Specifications </h2>
 <p align="justify">  The project had some objectives to fulfill, which can be divided in ESP32 and FreeRTOS functionalities. </p>
