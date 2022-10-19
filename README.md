@@ -1,45 +1,43 @@
 <h1> ESP32 FreeRTOS - Bluetooth Access Control & Alarm </h1>
 <h2> Description: </h2>
-<p> Developed for the class Embedded Computational Systems. <br>
-    The objective of this project was to create a Real-Time system using an ESP32 or an Arduino Mega with FreeRTOS.  <br>
-    I ended up using the board ESP32 WeMos LOLIN32 Lite which I already had, and it became easier to work from home. </p>
+<p align="justify"> Developed for the class Embedded Computational Systems. The objective of this project was to create a Real-Time system using an ESP32 or an Arduino Mega with FreeRTOS. I ended up using the board ESP32 WeMos LOLIN32 Lite which I already had, and it became easier to work from home. </p>
 
 <h2> Project Specifications </h2>
-<p> The project had some objectives to fulfill, which can be divided in ESP32 and FreeRTOS functionalities. </p>
+<p align="justify">  The project had some objectives to fulfill, which can be divided in ESP32 and FreeRTOS functionalities. </p>
 
 <h3>  ESP32 Framework: </h3>
-<p> Modules that must be included in the project: </p>
+<p align="justify">  Modules that must be included in the project: </p>
 <ul>
-    <li> <p> EUSART </p> </li>  
-    <li> <p> I/O ports </p> </li>  
-    <li> <p> External interrupt(s) </p> </li> 
-    <li> <p> ADC/DAC (ex: Cap touch) </p> </li>  
-    <li> <p> PWM </p> </li>  
-    <li> <p> I2C/SPI </p> </li>  
+    <li> <p align="justify">  EUSART </p> </li>  
+    <li> <p align="justify">  I/O ports </p> </li>  
+    <li> <p align="justify">  External interrupt(s) </p> </li> 
+    <li> <p align="justify">  ADC/DAC (ex: Cap touch) </p> </li>  
+    <li> <p align="justify">  PWM </p> </li>  
+    <li> <p align="justify">  I2C/SPI </p> </li>  
 </ul>
   
 Modules that cannot be included in the project:
 <ul>
-    <li> <p> Timers </p> </li>  
-    <li> <p> Delays </p> </li>  
-    <li> <p> Anything else that blocks the processor </p> </li>  
+    <li> <p align="justify">  Timers </p> </li>  
+    <li> <p align="justify">  Delays </p> </li>  
+    <li> <p align="justify">  Anything else that blocks the processor </p> </li>  
 </ul>
 
 <h3>  FreeRTOS: </h3>
 Include at least 5 of the following modules in the project:
 <ul>
-    <li> <p> Tasks </p> </li>  
-    <li> <p> Idle Task Hook </p> </li>  
-    <li> <p> Task Priority Change </p> </li>  
-    <li> <p> Task Deletion </p> </li>  
-    <li> <p> Message Queues </p> </li>  
-    <li> <p> Interrupts Management </p> </li>  
-    <li> <p> Semaphores: </p> </li>  
+    <li> <p align="justify">  Tasks </p> </li>  
+    <li> <p align="justify">  Idle Task Hook </p> </li>  
+    <li> <p align="justify">  Task Priority Change </p> </li>  
+    <li> <p align="justify">  Task Deletion </p> </li>  
+    <li> <p align="justify">  Message Queues </p> </li>  
+    <li> <p align="justify">  Interrupts Management </p> </li>  
+    <li> <p align="justify">  Semaphores: </p> </li>  
     <ul>
-        <li> <p> Binary Semaphores </p> </li>  
-        <li> <p> Counting Semaphores </p> </li>  
+        <li> <p align="justify">  Binary Semaphores </p> </li>  
+        <li> <p align="justify">  Counting Semaphores </p> </li>  
     </ul>
-    <li> <p> Resource Management </p> </li>  
-    <li> <p> Critical Sections </p> </li>  
-    <li> <p> Mutexes </p> </li>  
+    <li> <p align="justify">  Resource Management </p> </li>  
+    <li> <p align="justify">  Critical Sections </p> </li>  
+    <li> <p align="justify">  Mutexes </p> </li>  
 </ul>
