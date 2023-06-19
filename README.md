@@ -46,7 +46,7 @@ Include at least 5 of the following modules in the project:
 
 <h2> <p align="left"> Project images </p> </h2>
 <p> These were the images used in the project's report. </p>
-<h3> <p align="center"> Generic flow diagram </p> </h3>
+<h3> <p align="center"> System diagram </p> </h3>
 <p align="center"> 
   <img width="250" src="https://github.com/nunca-falha/ESP32_FreeRTOS_BluetoothControl_Alarm/blob/main/assets/images/generic_flow_diagram.png" alt="Generic flow diagram"/>
 </p>
@@ -56,7 +56,7 @@ Include at least 5 of the following modules in the project:
   <img width="750" src="https://github.com/nunca-falha/ESP32_FreeRTOS_BluetoothControl_Alarm/blob/main/assets/images/freertos_flow_diagram.png" alt="FreeRTOS flow diagram"/>
 </p>
 
-<h3> <p align="center"> FreeRTOS flow diagram </p> </h3>
+<h3> <p align="center"> FreeRTOS core time diagram </p> </h3>
 <p align="center"> 
   <img width="750" src="https://github.com/nunca-falha/ESP32_FreeRTOS_BluetoothControl_Alarm/blob/main/assets/images/time_diagram.png" alt="Time slot diagram"/>
 </p>
